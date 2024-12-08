@@ -1,0 +1,2 @@
+# cockpit
+Frontend application
