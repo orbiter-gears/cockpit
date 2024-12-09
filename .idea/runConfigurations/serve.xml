@@ -1,5 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="serve" type="NodeJSConfigurationType" application-parameters="serve" path-to-node="$USER_HOME$/.nvm/versions/node/v22.11.0/bin/node" path-to-js-file="node_modules/.bin/webpack" working-dir="$PROJECT_DIR$">
-    <method v="2" />
-  </configuration>
-</component>
